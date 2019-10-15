@@ -749,9 +749,6 @@ foreach ($iterable as $key => $value) {
 
 ### 5.6 `try`, `catch`, `finally`
 
-A `try-catch-finally` block looks like the following. Note the placement of
-parentheses, spaces, and braces.
-
 `try-catch-finally`ブロックのスタイルは以下の通りです。括弧、スペース、中括弧の配置に注意してください。
 
 ~~~php
