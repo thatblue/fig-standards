@@ -5,4 +5,4 @@
 
 また、可読性の向上を目的として細かい文言の調整を随時行っています。更新履歴はコミットログを確認してください。
 
-This document is Japanese translation of PSRs by individual person who do not related to PHP-FIG. If you require strict interpretation, should refer [original document](https://www.php-fig.org/psr/).
+This document is Japanese translation of PSRs by individual person who do not related to PHP-FIG. If you require strict interpretation, should refer [original documents](https://www.php-fig.org/psr/).
