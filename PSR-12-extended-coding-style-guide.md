@@ -7,9 +7,9 @@ If you require strict interpretation, should refer [original document](https://w
 
 # 拡張コーディングスタイルガイド
 
-このドキュメントにある "MUST", "MUST NOT", "REQUIRED", "SHALL", "SHALL NOT", "SHOULD", "SHOULD NOT", "RECOMMENDED", "MAY",  "OPTIONAL"のキーワードは[RFC 2119(訳注:IPAによる日本語訳)][]で説明されている通りに解釈してください。
+このドキュメントにある "MUST", "MUST NOT", "REQUIRED", "SHALL", "SHALL NOT", "SHOULD", "SHOULD NOT", "RECOMMENDED", "MAY",  "OPTIONAL"のキーワードは[RFC 2119(IPAによる日本語訳)][]で説明されている通りに解釈してください。
 
-[RFC 2119 (IPAによる日本語訳)]: https://www.ipa.go.jp/security/rfc/RFC2119JA.html
+[RFC 2119(IPAによる日本語訳)]: https://www.ipa.go.jp/security/rfc/RFC2119JA.html
 
 ## 概要
 
