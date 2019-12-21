@@ -1,16 +1,15 @@
-# fig-standards in Japanese by thatblue
+# fig-standards in Japanese by [thatblue](https://github.com/thatblue)
+
 このドキュメントは英語とPHPの学習を目的とした、PHP-FIGとは無関係の**個人によるPSRの日本語訳**です。
 もし誰かの参考になれば嬉しいですが、翻訳の品質は保証できませんので厳密な解釈を必要とする場合は必ず[原文のドキュメント](https://www.php-fig.org/psr/)を当たってください。
 誤訳等あればご指摘いただけると嬉しいです。
 
 また、可読性の向上を目的として細かい文言の調整を随時行っています。更新履歴は[コミットログ](https://github.com/thatblue/fig-standards/commits/master)を確認してください。
 
-- :octocat:[GitHub](https://github.com/thatblue)
-- 🐦[Twitter](https://twitter.com/thatblue_plus)
-
 This document is Japanese translation of PSRs **by individual person** who do not related to PHP-FIG. If you require strict interpretation, should refer [original documents](https://www.php-fig.org/psr/).
 
 ## TOC
+
 - [PSR-1 Basic Coding Standard 基本コーディング標準](PSR-1-basic-coding-standard.md) 2019-12-15
 - PSR-3 Logger Interface
 - PSR-4 Autoloading Standard
